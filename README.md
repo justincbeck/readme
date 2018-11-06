@@ -21,23 +21,6 @@ Additionaly, my job is _not_ to tell you what to do or how to do it. It is also 
 
 I might have thoughts on your code; I'll definitely have thoughts on process. I expect you to have thoughts on these too. In the end, though, you own your code and if you have good reasons for doing something you should do it. With that said, **use good judgement** applies to code and to process discretion.
 
-## Skills
-Outside the description of the actions I take in order to do my job, there are also things that I'm skilled at and also passionate about that may not fit exactly with my _job description_. I'm covering these secondary skills here because they are things that I can do and that I enjoy doing that I think can help all boats to rise. In order for some of these skills to be effective, should you choose to leverage them, they might require an open mind and some level of _participation_ from you.
-
-### Process Development
-I feel strongly that well defined and adhered to processes make for efficient and predictable work. That doesn't mean that the process is immutable, it just means that a process provides stability. That stability and predictability enables forcasting, scheduling and estimation which allows us to better plan our work and more reliably bill our clients.
-
-Some processes have been around for a long time and I don't feel the need to change them, _much_. Other situations warrant new processes, perhaps because no-one has dealt with them before, and I spend a lot of time thinking about how to impliment these processes. 
-
-### Professional Coaching/Mentoring
-Something, something, something...
-
-### Peer advocacy
-Something, something, something...
-
-### Conflict resolution
-Something, something, something...
-
 ## Scheduling
 I am usually in the office between 9:08 and 5:32 Monday through Friday. I will occassionaly work remotely when I need time to focus or when my personal life interferes with my professional life. When I'm in the office you should assume you can talk to me at any time (meetings aside); I'm here for you.
 
