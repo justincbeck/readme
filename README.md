@@ -29,19 +29,10 @@ I feel strongly that well defined and adhered to processes make for efficient an
 
 Some processes have been around for a long time and I don't feel the need to change them, _much_. Other situations warrant new processes, perhaps because no-one has dealt with them before, and I spend a lot of time thinking about how to impliment these processes. 
 
-### Professional Coaching/Mentoring
-Something, something, something...
-
-### Peer advocacy
-Something, something, something...
-
-### Conflict resolution
-Something, something, something...
-
 ## Scheduling
-I am usually in the office between 9:08 and 5:32 Monday through Friday. I will occassionaly work remotely when I need time to focus or when my personal life interferes with my professional life. When I'm in the office you should assume you can talk to me at any time (meetings aside); I'm here for you.
+When I am employed by a company where there is an office and I'm obligated (by company policy or, more importantly, your needs) to be there, I am usually in the office between 9:08 and 5:32 Monday through Friday (that is to say, _around_ those times). Again, in an office environment, I will occassionaly work remotely when I need time to focus or when my personal life interferes with my professional life. When I'm in the office you should assume you can talk to me at any time (meetings aside); I'm here for you. If you can't track me down in the office during normal business hours feel free to find a time on my calendar and schedule a meeting. If my schedule is _not_ open and you want or need to talk to me, hit me up over Basecamp (or Slack) and I'll make sure we talk _that_ day.
 
-If you can't track me down in the office during normal business hours feel free to find a time on my calendar and schedule a meeting. If my schedule is _not_ open and you want or need to talk to me, hit me up over Basecamp (or Slack) and I'll make sure we talk _that_ day.
+When I am employed by a company where we are all largely remote either because we're goegraphically dispersed or because it's just the company culture, I will make sure I am available from 8:00 to 6:00 for you. Keep in mind that the leading and trailing ends of that timespan get murky with personal obligations but I'll do my best to accommodate your needs. If we're not goegraphically dispersed (i.e. we live within 20-30 miles of each other) I'd be happy to meet for coffee occassionaly too. Nothing beats face-to-face, in-person communication (see below).
 
 ## Communication Style
 I'm pretty direct and sometimes that feels awkward. I'm being direct because I want our conversations to be open and honest and I believe that we won't have the required level of trust if I'm not as direct as possible. In turn, I want the same from you whenever possible.
@@ -71,3 +62,4 @@ I will likely give you feedback on your performance at your 1:1s. If I'm worried
 
 ## Revision History
 v0.1 2018-10-18
+v0.2 2020-05-13
