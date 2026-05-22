@@ -13,13 +13,13 @@ I am here to ensure the technical success of our company by creating and nurturi
 1. I am here to make sure you are happy and fulfilled in the work that you do. I want to help improve your professional skills and grow your career.
 1. I am here to make sure the team is successful and that we are all aligned and marching in the right direction.
 1. I am here to make sure that our team is getting what we need from other teams, and that other teams are getting what they need from us. I'm also here to make sure we're working on the right things (which is not always what we're asked to work on).
-1. I occasionally write code.
+1. I also write code.
 
 These are in approximate order of importance. If you are not happy and successful, our team won't be either. If the team is struggling, alleivating that stress will likely be my primary focus.
 
 Additionaly, my job is _not_ to tell you what to do or how to do it. It is also not to be the official decision maker for the team (although I will happily be the tie-breaker when needed). The key here is that I am _accountable_ for the decisions the team make, even if I'm not always the one making those decisions all the time. I'll provide a framework (which I hope you'll question and challenge) but also the space to be creative within it; **this is about empowering you**.
 
-I might have thoughts on your code; I'll definitely have thoughts on process. I expect you to have thoughts on these too. In the end, though, you own your code and if you have good reasons for doing something you should do it. With that said, **use good judgement** applies to code and to process discretion.
+I might have thoughts on your code; I'll definitely have thoughts on process. I expect you to have thoughts on these too. In the end, though, you own your code and if you have good reasons for doing something you should do it. With that said, **use good judgement** applies to code, process and how we treat one another.
 
 ## Skills
 Outside the description of the actions I take in order to do my job, there are also things that I'm skilled at and also passionate about that may not fit exactly with my _job description_. I'm covering these secondary skills here because they are things that I can do and that I enjoy doing that I think can help all boats to rise. In order for some of these skills to be effective, should you choose to leverage them, they might require an open mind and some level of _participation_ from you.
@@ -30,7 +30,7 @@ I feel strongly that well defined and adhered to processes make for efficient an
 Some processes have been around for a long time and I don't feel the need to change them, _much_. Other situations warrant new processes, perhaps because no-one has dealt with them before, and I spend a lot of time thinking about how to impliment these processes. 
 
 ## Scheduling
-When I am employed by a company where there is an office and I'm obligated (by company policy or, more importantly, your needs) to be there, I am usually in the office between 9:08 and 5:32 Monday through Friday (that is to say, _around_ those times). Again, in an office environment, I will occassionaly work remotely when I need time to focus or when my personal life interferes with my professional life. When I'm in the office you should assume you can talk to me at any time (meetings aside); I'm here for you. If you can't track me down in the office during normal business hours feel free to find a time on my calendar and schedule a meeting. If my schedule is _not_ open and you want or need to talk to me, hit me up over Basecamp (or Slack) and I'll make sure we talk _that_ day.
+When I am employed by a company where there is an office and I'm obligated (by company policy or, more importantly, your needs) to be there, I am usually in the office between 9:08 and 5:32 Monday through Friday (that is to say, _around_ those times). Again, in an office environment, I will occassionaly work remotely when I need time to focus or when my personal life interferes with my professional life. When I'm in the office you should assume you can talk to me at any time (meetings aside); I'm here for you. If you can't track me down in the office during normal business hours feel free to find a time on my calendar and schedule a meeting. If my schedule is _not_ open and you want or need to talk to me, hit me up and I'll make sure we talk _that_ day.
 
 When I am employed by a company where we are all largely remote either because we're goegraphically dispersed or because it's just the company culture, I will make sure I am available from 8:00 to 6:00 for you. Keep in mind that the leading and trailing ends of that timespan get murky with personal obligations but I'll do my best to accommodate your needs. If we're not goegraphically dispersed (i.e. we live within 20-30 miles of each other) I'd be happy to meet for coffee occassionaly too. Nothing beats face-to-face, in-person communication (see below).
 
@@ -46,14 +46,14 @@ These are the communication modes I use in their preferred order. In almost ever
 - Our next best option is face-to-face, video communication
 - I commit to answering emails within 24 hours, usually much faster
 - If it feels like we're having trouble communicating I will always opt for a face-to-face discussion to hash things out
-- I will try to be as responsive as possible in Basecamp, Slack and Clubhouse
+- I will try to be as responsive as possible in whatever communication platform we're using
 
 ## 1:1s
 There will be a 30 minute timeslot on my calendar for you every other week. If you'd like more time just let me know and I'll reschedule it for whatever you need.
 
 1:1s are for _you_. I will have some set things that I will want to discuss with you, but this is first and foremost your opportunity to let me know how you're doing, what you need, what you wish to be different, how you feel about your team, what your career goals are, how your cat is doing...  etc. This time is for the conversations you might not feel comfortable having in front of other people. 
 
-If you'd like to give me a quick status update on your work, that's fine with me, but those are generally better suited to a Clubhouse or, if you like, a Basecamp ping or a separate meeting.
+If you'd like to give me a quick status update on your work, that's fine with me, but those are generally better suited to a separate meeting.
 
 I encourage you to write down some things throughout the week that you want to chat about if you think it will help; it can be hard to think of or bring up things in the moment. If you have things you want to talk about but struggle to bring them up, feel free to send me a vague agenda ahead of time. If you don't know what to talk about, say so, we can use _that_ as a topic.
 
@@ -63,3 +63,4 @@ I will likely give you feedback on your performance at your 1:1s. If I'm worried
 ## Revision History
 v0.1 2018-10-18
 v0.2 2020-05-13
+v0.3 2026-05-22
