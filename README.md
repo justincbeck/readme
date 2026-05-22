@@ -1,6 +1,6 @@
 # Justin C. Beck - README
 ## TL;DR
-I want you to know me. The better you know me and the more you know about me the easier it will be for us to work well together. This document serves to describe me and my working style, and to set expectations for you about what it's like to have me as a colleague and/or manager.
+I want you to know me (and I want to know you). The better we know one another, the easier it will be for us to work well together. This document serves to describe me and my working style, and to set expectations for you about what it's like to have me as a colleague and/or manager.
 
 This document is not intended to replace or override the relationship and mutual respect and understanding we have built (or will build) as we work together. It's intention is to give you an idea of how I think and how I work.
 
