@@ -61,6 +61,6 @@ I encourage you to write down some things throughout the week that you want to c
 I will likely give you feedback on your performance at your 1:1s. If I'm worried about your performance, I'll say so. If you are worried that I'm worried about your performance, please let me know.
 
 ## Revision History
-v0.1 2018-10-18
-v0.2 2020-05-13
-v0.3 2026-05-22
+- v0.1 2018-10-18
+- v0.2 2020-05-13
+- v0.3 2026-05-22
